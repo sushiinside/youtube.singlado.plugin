@@ -1,6 +1,6 @@
 {
   "id": "music.youtube.com",
-  "name": "YouTube Music",
+  "name": "YouTube (Spotify) Music",
   "resolve": [
     {
       "as": "iframe",
