@@ -20,7 +20,7 @@
     {
       "as": "playerUrl",
       "op": "url.template",
-      "template": "https://www.youtube.com/s/player/{pid}/player_ias.vflset/en_US/base.js"
+      "template": "https://www.youtube.com/s/player/{pid}/tv-player-es6.vflset/tv-player-es6.js"
     },
     {
       "as": "base",
